@@ -1,0 +1,1 @@
+DATA_ROOT = '/home/junhyeok/document/adaclip/AdaCLIP/data'
